@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 16 16:28:23 NPT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0159-a6df-d3f1-00000d648a70 
+on database directory memory:/home/dmaharjan/NetBeansProjects/springboot/testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/home/dmaharjan/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=/home/dmaharjan/NetBeansProjects/springboot
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-59-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
